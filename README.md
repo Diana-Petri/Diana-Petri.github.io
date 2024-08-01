@@ -6,7 +6,7 @@ El propósito de esta página web es mostrar mi portafolio de proyectos como des
 
 LINK - http://127.0.0.1:5500/index.html
 
-Aquí puedes ver mi [portafolio](https://diana-petri.github.io).
+Aquí puedes ver mi [portafolio](https://Diana-Petri.github.io).
 
 ### Tecnologías
 * HTML
