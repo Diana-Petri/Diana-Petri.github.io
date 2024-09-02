@@ -190,6 +190,11 @@ p{
   box-shadow: none;
   border-radius: 20px;
 }
+.container2{
+  padding: 30px 50px 30px 50px;
+  box-shadow: none;
+  border-radius: 20px;
+}
   
   
   :root {
